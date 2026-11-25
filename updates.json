@@ -1,8 +1,7 @@
 {
   "discord": {
-    "heading": "## {title} <:box:1308552604791607427> {ping} {version}",
-    "release": "Skrl Housing {version}: {title}",
-    "ping": "everyone"
+    "heading": "## {title} <:box:1308552604791607427> {version}",
+    "release": "Skrl Housing {version}: {title}"
   },
   "updates": [
     {
