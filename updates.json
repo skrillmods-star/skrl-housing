@@ -1,0 +1,42 @@
+{
+  "discord": {
+    "heading": "## {title} <:box:1308552604791607427> {ping} {version}",
+    "release": "Skrl Housing {version}: {title}",
+    "ping": "everyone"
+  },
+  "updates": [
+    {
+      "tag": "v1.1",
+      "version": "1.1",
+      "date": "2026-11-19",
+      "title": "The agent tablet",
+      "items": [
+        "Real estate agents get their own tablet, held in hand with its own typing animation. Its screen is live: everything you open and type shows up on the tablet you are holding.",
+        "Home screen with the weather in Los Santos, the calendar, the clock, the agency numbers and the agents on duty.",
+        "A real to-do list, saved and shared by the whole agency.",
+        "Appointments app: the boss plans meetings and briefings with a date, a time and a note, and every agent sees them.",
+        "Dynasty 8 app: the agency website with the interactive map and every property for sale. Agents create listings from a house on the map, a shell or a GTA interior.",
+        "Company app for the boss: employees, hiring, funds, commissions and unpaid invoices, with a map of everything sold.",
+        "SecuroServ lock: only agency members open the tablet, and only the boss gets into the company app.",
+        "Gallery for the agency photos and a Mail app with its own address.",
+        "The tablet speaks the same 41 languages as the script."
+      ]
+    },
+    {
+      "tag": "v1.0",
+      "version": "1.0",
+      "date": "2026-11-18",
+      "title": "First version",
+      "items": [
+        "Decoration mode with objects by room, a search bar and a creator filter.",
+        "Change the color of a piece already placed, or resize it from 50% to 150%.",
+        "Cart and order, delivered in cardboard boxes next to you or at your front door. Pianos come in their own crate.",
+        "Storage, wardrobes and sell back.",
+        "Pets room: dog beds, kennels, cages, bowls and pet decor.",
+        "Badges on catalogue cards show what a piece can do: Playable, Real flames, Smoke, Lights up, Wardrobe, Storage.",
+        "Your HUD hides while you decorate and comes back on every exit. Supported: jg-hud, 17mov, qs-interface, bablo-hud, wais-hud and mHud.",
+        "ESX, QBCore or standalone. 41 languages."
+      ]
+    }
+  ]
+}
