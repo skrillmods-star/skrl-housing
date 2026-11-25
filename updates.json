@@ -6,6 +6,18 @@
   },
   "updates": [
     {
+      "tag": "v1.2",
+      "version": "1.2",
+      "date": "2026-11-25",
+      "title": "The mailbox",
+      "items": [
+        "Every property has its own mailbox. When an agent creates a listing, they place it by the door or click a street mailbox already on the map",
+        "Anyone can drop something in it, but only the owner and the people who hold a key can open it and take what's inside. It's real storage, with its own slots and weight",
+        "The owner gets a message on their phone when mail arrives, or a notification if the server has no phone script",
+        "Custom animations: your character opens the mailbox and its door moves with them, with an envelope in hand when you drop off or collect the mail"
+      ]
+    },
+    {
       "tag": "v1.1",
       "version": "1.1",
       "date": "2026-11-19",
