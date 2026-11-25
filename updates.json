@@ -2,7 +2,8 @@
   "discord": {
     "heading": "## {title} <:box:1308552604791607427> {version}",
     "release": "Skrl Housing {version}: {title}",
-    "style": "github"
+    "style": "github",
+    "color": "#FFDB00"
   },
   "updates": [
     {
